@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @vardhinii
-- 👀 I’m interested in building things for web
-- 🌱 I’m currently learning Data Structures & Algorithms and Front-end Development
+<h2> Hello there 👋 </h2>
+- 👋 I’m @vardhinii<br>
+- 👀 I’m interested in building things for web<br>
+- 🌱 I’m currently learning Data Structures & Algorithms and Front-end Development<br>
 
 
 <!---

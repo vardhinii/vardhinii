@@ -1,7 +1,7 @@
 <h2> Hello there 👋 </h2>
 - 👋 I’m @vardhinii<br>
 - 👀 I’m interested in building things for web<br>
-- 🌱 I’m currently learning Data Structures & Algorithms and Front-end Development<br>
+- 🌱 I’m currently learning Data Science<br>
 
 
 <!---

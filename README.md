@@ -1,4 +1,4 @@
-<img src="www.github.com/vardhinii/vardhinii/images/vardhinii_banner.jpg" alt="banner_image"/>
+<img src="https://github.com/vardhinii/vardhinii/blob/main/images/vardhinii_banner.png" alt="banner_image"/>
 
 <h2>Hello there 👋</h2>
 - 👋 I’m @vardhinii.<br>

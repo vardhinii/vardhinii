@@ -1,3 +1,5 @@
+<img src="www.github.com/vardhinii/vardhinii/images/vardhinii_banner.jpg" alt="banner_image"/>
+
 <h2>Hello there 👋</h2>
 - 👋 I’m @vardhinii.<br>
 - 👀 I’m interested in data analysis and web development.<br>

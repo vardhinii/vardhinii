@@ -11,12 +11,18 @@
 </div> 
 <div align="center">
 
-[![github_stats](https://github-readme-stats.vercel.app/api?username=vardhinii&theme=tokyonight&show_icons=true&bg_color=00000000&card_width=400)](https://github.com/vardhinii)
-[![GitHub Streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo&card_width=400)](https://git.io/streak-stats)
-
+[![github_stats](https://github-readme-stats.vercel.app/api?username=vardhinii&theme=tokyonight&show_icons=true&bg_color=00000000)](https://github.com/vardhinii)
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhinii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&card_width=420" alt="top_langs" />
+</a>
+<!--
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhinii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&card_width=400&height=195)
+-->
 </div>
+<div align="center">
 
-
+[![github_streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo)](https://git.io/streak-stats)
+  
+</div>
 
 
 <h2>A litte more on me ✨</h2>

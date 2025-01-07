@@ -1,9 +1,10 @@
-<img src="https://github.com/vardhinii/vardhinii/blob/main/images/vardhinii_banner.png" alt="banner_image"/>
+<img src="https://github.com/vardhinii/vardhinii/blob/main/images/vardhinii_banner.png"/>
 
-<h2>Hello there 👋</h2>
-- 👋 I’m @vardhinii.<br>
-- 👀 I’m interested in data analysis and web development.<br>
-- 🌱 I’m currently learning Data Science @ IITM BS Program.<br>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vardhinii&theme=discord&margin-w=15&title=-Reviews&no-bg=true)](https://github.com/vardhinii)
+
+</div>  
 
 <h2>A litte more on me ✨</h2>
 - 🎓 Passionate about learning and advancing my knowledge in data science, machine learning, and full-stack development.<br>

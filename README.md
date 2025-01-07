@@ -29,7 +29,7 @@
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhinii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&card_width=400&height=195)
 -->
 
-[![github_streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo&card_width=830&ring=EB5454&fire=EB5454)](https://git.io/streak-stats)
+[![github_streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo&ring=EB5454&fire=EB5454)](https://git.io/streak-stats)
   
 </div>
 

@@ -20,7 +20,7 @@
 </div>
 <div align="center">
 
-[![github_streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![github_streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo&card_width=830&ring=EB5454&fire=EB5454)](https://git.io/streak-stats)
   
 </div>
 

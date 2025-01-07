@@ -11,8 +11,8 @@
 </div> 
 <div align="center">
 
-[![github_stats](https://github-readme-stats.vercel.app/api?username=vardhinii&theme=tokyonight&show_icons=true&bg_color=00000000)](https://github.com/vardhinii)
-[![GitHub Streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![github_stats](https://github-readme-stats.vercel.app/api?username=vardhinii&theme=tokyonight&show_icons=true&bg_color=00000000&card_width=400)](https://github.com/vardhinii)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo&card_width=400)](https://git.io/streak-stats)
 
 </div>
 

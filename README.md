@@ -12,7 +12,7 @@
 <div align="center">
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=vardhinii&theme=tokyonight&show_icons=true&bg_color=00000000)](https://github.com/vardhinii)
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhinii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&card_width=420" alt="top_langs" />
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhinii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&card_width=350" alt="top_langs" />
 </a>
 <!--
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhinii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&card_width=400&height=195)

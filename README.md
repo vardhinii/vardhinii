@@ -1,8 +1,8 @@
 <img src="https://github.com/vardhinii/vardhinii/blob/main/images/vardhinii_banner.png"/>
 <div align="center">
 
-  <h1>Hey there 👋, I'm Vardhini Kumaar</h1>
-  <h4>🎧 Coding to the beats of life while sipping on some ☕. Welcome to my GitHub corner where Data, AI, and a sprinkle of chaos come to life.</h4>
+# ***Hey there 👋, I'm Vardhini Kumaar***
+*🎧 Coding to the beats of life while sipping on some ☕. Welcome to my GitHub corner where Data, AI, and a sprinkle of chaos come to life.*
 </div>
 <br/>
 
@@ -12,7 +12,7 @@
 
 </div>
 <div align="center">
-<h1>Quite an Achievement i.g.?!🏆😶‍🌫️ </h1>
+# ***Quite an Achievement i.g.?!🏆😶‍🌫️***
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=vardhinii&theme=discord&margin-w=15&title=-Reviews&no-bg=true)](https://github.com/vardhinii)
 

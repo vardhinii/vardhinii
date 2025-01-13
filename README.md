@@ -27,7 +27,7 @@
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhinii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&card_width=400&height=195)
 -->
 
-[![github_streak](https://streak-stats.demolab.com?user=vardhinii&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![github_streaks](https://github-readme-streak-stats-cjokwk88r-vardhiniis-projects.vercel.app?user=vardhinii&theme=tokyonight-duo)](https://git.io/streak-stats)
 </div>
 
 <img src="https://github.com/vardhinii/vardhinii/blob/main/images/vardhinii_footer.png"/>
